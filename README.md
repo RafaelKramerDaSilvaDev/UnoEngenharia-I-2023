@@ -1,8 +1,8 @@
 # Gerenciamento de Cursos 📚
 
-<div style={ display: "flex", justifyContent: "center", alignItems: "center", width: "100%"}>
-  <img src="https://github.com/RafaelKramerDaSilvaDev/UnoEngenharia-I-2023/assets/135643864/b263140a-c87d-4082-acf1-301a2332d0ef" width="200px" height="200px"></img>
-</div>
+<p align="center">
+  <img src="https://github.com/RafaelKramerDaSilvaDev/UnoEngenharia-I-2023/assets/135643864/b263140a-c87d-4082-acf1-301a2332d0ef" width="200px" height="200px">
+</p>
 
 **Gerenciamento de Cursos** é uma aplicação versátil projetada para gerenciar aulas em uma ampla variedade de modalidades. Seja você um professor individual ou uma escola com múltiplos instrutores, nossa ferramenta é adaptável às suas necessidades.
 
